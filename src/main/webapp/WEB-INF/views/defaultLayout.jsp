@@ -22,7 +22,7 @@
     <tiles:insertAttribute name="menu"/>
 </section>
 
-<section id="site-content">
+<section id="site-content" style="margin-left: 128px;margin-top:80px;width:1235px;">
     <tiles:insertAttribute name="body"/>
 </section>
 
